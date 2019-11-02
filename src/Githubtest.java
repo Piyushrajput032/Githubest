@@ -6,5 +6,7 @@ public class Githubtest {
     }
     void newtester(){
         System.out.println("helo tester");
+        int i=0;
+        System.out.println("Value of i="+i);
     }
 }
